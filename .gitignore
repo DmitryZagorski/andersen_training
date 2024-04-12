@@ -1,0 +1,18 @@
+### gradle ###
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Datasource local storage ignored files
+/../../../../:\andersen\first_task\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
